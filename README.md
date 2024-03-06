@@ -26,5 +26,5 @@
 * [Lab-11: RBAC]
 * [Lab-12: Pod Sheduling]
 * [Lab-13: Helm]
-* [Reference Links](https://github.com/Mehar-Nafis/CKAD/blob/main/Reference%20Links.md)
-* [CKAD Exercises](https://github.com/Mehar-Nafis/CKAD/blob/main/CKAD%20Exercises.md)
+* [Reference Links]
+* [CKAD Exercises]
